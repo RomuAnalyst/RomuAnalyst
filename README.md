@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm currently learning ##R and Tableau Software...
+I'm currently learning R and Tableau Software.
+
 <!--
 **RomuAnalyst/RomuAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
