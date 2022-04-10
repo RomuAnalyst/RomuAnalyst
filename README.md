@@ -1,7 +1,7 @@
 *<h1 align="center">Hi 👋, I'm RomuAnalyst</h1>*
 
 
-<img src="https://www.lesphinx-developpement.fr/wp-media/uploads/2019/02/BANDEAU_Dataviz.png" href="https://github.com/sp-xd" alt="Hello Coders" width="1000"/> <br>
+<img src="https://www.lesphinx-developpement.fr/wp-media/uploads/2019/02/BANDEAU_Dataviz.png" href="https://github.com/sp-xd" width="1000"/> <br>
   
 </br>
 
@@ -16,5 +16,5 @@ Tableau                 |🟢🟢🔘🔘🔘🔘🔘🔘🔘🔘 | 03/2022     
 
 
 
-
+<img src="https://i.pinimg.com/originals/24/54/5f/24545f9a8169fbe62141bc338d91ad4f.gif" href="https://github.com/sp-xd" height= 300 width="1000"/> <br>
 
