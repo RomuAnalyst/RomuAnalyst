@@ -11,7 +11,6 @@ Logiciel                | Avancement               | Date de début         |
 R                       |🟢🟢🔘🔘🔘🔘🔘🔘🔘🔘 | 02/2022               | 
 Tableau                 |🟢🟢🔘🔘🔘🔘🔘🔘🔘🔘 | 03/2022               | 
 
-</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
