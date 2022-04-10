@@ -16,5 +16,5 @@ Tableau                 |🟢🟢🔘🔘🔘🔘🔘🔘🔘🔘 | 03/2022     
 
 
 
-<img src="https://i.pinimg.com/originals/24/54/5f/24545f9a8169fbe62141bc338d91ad4f.gif" href="https://github.com/sp-xd" height= 300 width="1000"/> <br>
+<img src="https://i.pinimg.com/originals/24/54/5f/24545f9a8169fbe62141bc338d91ad4f.gif" href="https://github.com/sp-xd" height= 250 width="1000"/> <br>
 
