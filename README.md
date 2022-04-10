@@ -5,7 +5,7 @@
   
 </br>
 
-- 🥇 Ask me about **Rstudio, Movies, Musics or anything** <img width="45%" align="right" alt="Github Image" src="https://github-readme-stats.vercel.app/api?username=romuanalyst&show_icons=true&locale=en" /><br>
+- 🥇 Ask me about **Rstudio, Tableau, Movies, Musics or anything** <img width="45%" align="right" alt="Github Image" src="https://github-readme-stats.vercel.app/api?username=romuanalyst&show_icons=true&locale=en" /><br>
 - 🥈 I’m currently learning **R and Tableau software**
 
 Logiciel                | Avancement               | Date de début         |  
