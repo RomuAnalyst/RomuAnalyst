@@ -1,4 +1,4 @@
-*<h1 align="center">Hi 👋, I'm RomuAnalyst, a french guy who like play with code...</h1>* 
+*<h1 align="center">Hi 👋, I'm RomuAnalyst, a french guy who likes playing with code...</h1>* 
 
 
 <img src="https://www.lesphinx-developpement.fr/wp-media/uploads/2019/02/BANDEAU_Dataviz.png" href="https://github.com/sp-xd" width="1000"/> <br>
